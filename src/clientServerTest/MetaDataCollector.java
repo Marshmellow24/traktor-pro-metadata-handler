@@ -64,6 +64,7 @@ public class MetaDataCollector {
 	 * Constructor w/ Debugging param
 	 * 
 	 * @param port		sets the port Traktor Pro is going to connect to
+	 * @param queueSize sets the queue size of the transmitted list which contains the meta data
 	 * @param debug		set 'true' if debug mode should be enabled (Default is 'false')	 
 	 */
 	
